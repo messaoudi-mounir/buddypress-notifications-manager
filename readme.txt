@@ -8,9 +8,9 @@ Stable tag: 1.0
 
 == Description ==
 
-BuddyPress Notifications manager is a plugin for BuddyPress plugin to manage the notifications system of buddypress of all users.
+BuddyPress Notifications Manager is a plugin for BuddyPress plugin to manage the notifications system of buddypress for all users.
 
-With Buddypress Notifications manager the administrator can manage all the notifications settings of Buddypress ( and also the new notifications added by other plugins).
+With Buddypress Notifications manager, the administrator can manage all the notifications settings of Buddypress ( and also the new notifications added by other plugins).
 
 The administrator can enable/disable access to notifications page for all users.He can also apply or/no the current settings on the old registred members. In this case, an update will be processed for all members, this operation can take few second depending the number of users.
 
