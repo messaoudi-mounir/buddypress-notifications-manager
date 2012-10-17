@@ -1,8 +1,9 @@
 <?php
 /**
- * Buddypress Notifications manager admin functionsand UI
+ * Buddypress Notifications manager admin functions and UI
  *
  */
+
 // Exit if accessed directly
 if ( !defined( 'ABSPATH' ) ) exit;
 
